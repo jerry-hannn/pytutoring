@@ -7,9 +7,9 @@ class Coordinate(object):
         """ Sets the x and y values """
         self.x = x
         self.y = y
-    def __str__(self):
-        """ Returns a string representation of self """
-        return "<" + str(self.x) + "," + str(self.y) + ">"
+    # def __str__(self):
+    #     """ Returns a string representation of self """
+    #     return "<" + str(self.x) + "," + str(self.y) + ">"
     def distance(self, other):
         """ Returns the euclidean distance between two points """
         x_diff_sq = (self.x-other.x)**2
