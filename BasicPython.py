@@ -5,11 +5,10 @@
 # do CTRL+1 again to uncomment them
 # try it on the next few lines below!
 
-#area = pi*(radius**2)
-#print(area)
-#radius = radius + 1
-#area = pi*(radius**2)
-#print(area)
+# print('hello world')
+# print('what did you have for dinner')
+# food = 'sushi'
+# print('I had ' + food)
 
 
 # try using type()!
@@ -23,8 +22,9 @@
 # simple operations
 # print(1+2)
 # print(3-1)
-# print(1*2)
+# print(4*7)
 # print(4/2)
+# print(4//2)
 # print(5/2)
 # print(5//2)
 # print(5%2)
@@ -35,20 +35,20 @@
 # print(1+(2*3))
 # print((1+2)*3)
 
-# define a variable
-a_very_long_variable_name_dont_name_them_this_long_pls = 0
+# # define a variable
+# a_very_long_variable_name_dont_name_them_this_long_pls = 0
 
-pi = 3.14159
-radius = 2.2
-# area of circle equation <- this is a comment
-area = pi*(radius**2)
-print(area)
+# pi = 3.14159
+# radius = 2.2
+# # area of circle equation <- this is a comment
+# area = pi*(radius**2)
+# print(area)
 
-# change values of radius <- another comment
-# use comments to help others understand what you are doing in code
-radius = radius + 1
-print(area)     # area doesn't change
-area = pi*(radius**2)
-print(area)
+# # change values of radius <- another comment
+# # use comments to help others understand what you are doing in code
+# radius = radius + 1
+# print(area)     # area doesn't change
+# area = pi*(radius**2)
+# print(area)
 
 
